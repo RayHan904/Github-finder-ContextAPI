@@ -2,6 +2,14 @@
 
 This project is a GitHub Finder web application developed using React.js, Context API, and the GitHub API. It allows users to search for GitHub users and view their profiles, repositories, and other details.
 
+## Screen Shots
+
+![Home](https://github.com/RayHan904/Github-finder-ContextAPI/assets/54216177/e1df016b-cd3e-4905-af47-dbab850e5889)
+
+![Details](https://github.com/RayHan904/Github-finder-ContextAPI/assets/54216177/a60ae89f-1018-4f17-b517-bdb618a4c590)
+
+
+
 ## Project Structure
 
 The project follows a typical React.js project structure, with additional directories for Context API and API integration. Here's a brief overview of the key directories and files:
@@ -46,6 +54,8 @@ The project utilizes the following technologies and libraries:
 - [React.js](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Context API](https://reactjs.org/docs/context.html): A built-in state management solution in React for sharing data between components.
 - [GitHub API](https://docs.github.com/en/rest): The official API provided by GitHub for accessing user and repository information.
+
+
 
 ## Contributing
 
